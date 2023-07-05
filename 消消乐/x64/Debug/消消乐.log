@@ -1,0 +1,9 @@
+﻿  Gamer.cpp
+  block.cpp
+C:\Users\烟雨蒙蒙\Desktop\消消乐\消消乐\block.cpp(74,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\烟雨蒙蒙\Desktop\消消乐\消消乐\block.cpp(75,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  gameManager.cpp
+  gameWindow.cpp
+  源.cpp
+  正在生成代码...
+  消消乐.vcxproj -> C:\Users\烟雨蒙蒙\Desktop\消消乐\x64\Debug\消消乐.exe
